@@ -1,5 +1,14 @@
 # Cucumber-JVM Dependency Injection with Spring
 
+## UPDATE:
+
+The way this repo used to demonstrate how to set up dependency injection for cucumber
+using spring [has been deprecated](https://github.com/cucumber/cucumber-jvm/pull/1940).
+You can still find the old approach demonstrated in this repo's `cucumber_xml` branch;
+I've updated `master` to reflect the new way of doing it.
+
+---
+
 This repo accompanies [this](https://natritmeyer.com/howto/cucumber-jvm-dependency-injection-with-spring/) blog post and is an example maven project demonstrating how to use Spring's dependency
 injection with Cucumber-JVM in a test automation framework.
 

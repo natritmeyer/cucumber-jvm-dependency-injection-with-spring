@@ -1,8 +1,8 @@
-package com.natritmeyer.examplecucumberjvmspringframework.steps;
+package com.natritmeyer.examplecucumberjvmspringframework.glue;
 
 import com.natritmeyer.examplecucumberjvmspringframework.aut.model.BingHomePage;
 import com.natritmeyer.examplecucumberjvmspringframework.aut.model.BingSearchResultsPage;
-import cucumber.api.java8.En;
+import io.cucumber.java8.En;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import static org.assertj.core.api.Assertions.assertThat;
